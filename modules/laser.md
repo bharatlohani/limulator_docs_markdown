@@ -1,0 +1,2 @@
+# Laser Module
+::: Modules.laser
