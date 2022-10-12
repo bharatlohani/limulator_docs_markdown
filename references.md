@@ -7,10 +7,10 @@
 ## System Documentation 
 * [System Documentation](system_doc.md)
 
-## API Reference
-* [Laser Module](/api/#Modules.laser)
-* [Camera Module](/api/#Modules.camera)
-* [Platform Module](/api/#Modules.limulator_platform)
-* [UI](/api/#main2)
-* [Server Processing](/api/#server_processing)
-* [Others](/api/#Modules.global_data)   
+## [API Reference](api.md)
+* [Laser Module](api/#Modules.laser)
+* [Camera Module](api/#Modules.camera)
+* [Platform Module](api/#Modules.limulator_platform)
+* [UI](api/#main2)
+* [Server Processing](api/#server_processing)
+* [Others](api/#Modules.global_data)   
