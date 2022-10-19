@@ -1,3 +1,4 @@
+* [Home](index.md)
 * [Getting Started](startup.md)
 * [Tutorials](tutorials.md)
 * [References](references.md)
