@@ -44,4 +44,7 @@ Lastly, you need to install the python extension by Microsoft for visual code st
 
 ### Linux
 
+Download the [Blender version for linux](https://docs.blender.org/manual/en/latest/getting_started/installing/linux.html)  suitable to your Linux version on your system.
+
+Follow the [instruction manual](https://docs.blender.org/manual/en/latest/getting_started/installing/index.html) of blender for more information.
 ## First Run
