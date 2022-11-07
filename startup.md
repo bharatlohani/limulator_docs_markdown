@@ -30,15 +30,15 @@ Limulator can be directly used from GitHub by cloning the repository into a subf
 ### Windows
 #### Steps for installation 
 
-Head to the link below, and download the version of blender that matches your system requirements.
+Download the version of [blender](https://www.blender.org/download/) that matches your system requirements.
 
-Link - https://www.blender.org/download/
-
-Additionally, you need to install python and Visual Studio code on your system.
+Additionally, you need to install [python](https://www.python.org/) and [Visual Studio code](https://code.visualstudio.com/) on your system.
 
 #### Setting up VScode for blender 
 
 Head to extensions and install “Blender Development” by Jacques Lucke. Make sure to click the check box of ‘Reload on save’ and ‘Allow modify external python’  in the extensions settings. Refer to the image below 
+
+![Screenshot](https://github.com/bharatlohani/limulator_docs_markdown/blob/main/content/VScode%20SS.png)
 
 Lastly, you need to install the python extension by Microsoft for visual code studio.
 
